@@ -9,7 +9,7 @@ except getopt.GetoptError:
 
 
 
-envir_para=90
+envir_para=89
 
 def iscontained(cx,cy,r,point,num):
         tt=True
